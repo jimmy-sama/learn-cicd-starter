@@ -11,7 +11,7 @@ git checkout -b BRANCH_NAME
 To push the new branch to GitHub, run:
 
 ```bash
-git push origin addtests
+git push origin BRANCH_NAME
 ```
 
 ## Local Development
